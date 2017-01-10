@@ -1,0 +1,102 @@
+/////////////////////////
+// Ignored for Unity    /
+/////////////////////////
+
+/RTS_VR/.vs
+/RTS_VR/.svn
+/RTS_VR/Temp
+/RTS_VR/Library
+/RTS_VR/ProjectSettings
+/RTS_VR/ExportedObj
+
+/RTS_VR/_TEMP
+/RTS_VR/Assets/_Temporaries
+/RTS_VR/Assets/_Temporaries.meta
+
+/RTS_VR/Assets/Plugins/Android/assets.meta
+/RTS_VR/Assets/Plugins/Android/AndroidManifest.xml
+/RTS_VR/Assets/Plugins/Android/AndroidManifest.xml.meta
+/RTS_VR/Assets/Plugins/x86_64/bleapi.dll
+/RTS_VR/Assets/Plugins/x86_64/bleapi.dll.meta
+/RTS_VR/Assets/Plugins/x86_64/sixense.dll
+/RTS_VR/Assets/Plugins/x86_64/sixense.dll.meta
+/RTS_VR/Assets/ThirdParty
+/RTS_VR/Assets/ThirdParty.meta
+/RTS_VR/Assets/Standard Assets
+/RTS_VR/Assets/Standard Assets.meta
+
+/RTS_VR/*.csproj
+/RTS_VR/*.sln
+/RTS_VR/*.txt
+
+// GoogleVR SDK
+/RTS_VR/Assets/Plugins/iOS/GoogleKitHUD.bundle.meta
+/RTS_VR/Assets/Plugins/iOS/libgvrunity.a
+/RTS_VR/Assets/Plugins/iOS/libgvrunity.a.meta
+/RTS_VR/Assets/Plugins/iOS/MaterialRobotoFontLoader.bundle.meta
+/RTS_VR/Assets/Plugins/iOS/CardboardSDK.bundle
+/RTS_VR/Assets/Plugins/iOS/GoogleKitCore.bundle
+/RTS_VR/Assets/Plugins/iOS/GoogleKitDialogs.bundle
+/RTS_VR/Assets/Plugins/iOS/GoogleKitHUD.bundle
+/RTS_VR/Assets/Plugins/iOS/MaterialRobotoFontLoader.bundle
+/RTS_VR/Assets/Plugins/iOS/CardboardAppController.h
+/RTS_VR/Assets/Plugins/iOS/CardboardAppController.h.meta
+/RTS_VR/Assets/Plugins/iOS/CardboardAppController.mm
+/RTS_VR/Assets/Plugins/iOS/CardboardAppController.mm.meta
+/RTS_VR/Assets/Plugins/iOS/CardboardSDK.bundle.meta
+/RTS_VR/Assets/Plugins/iOS/GoogleKitCore.bundle.meta
+/RTS_VR/Assets/Plugins/iOS/GoogleKitDialogs.bundle.meta
+/RTS_VR/Assets/Plugins/Android/gvr_audio.jar
+/RTS_VR/Assets/Plugins/Android/gvr_audio.jar.meta
+/RTS_VR/Assets/Plugins/Android/unitygvractivity.aar
+/RTS_VR/Assets/Plugins/Android/unitygvractivity.aar.meta
+/RTS_VR/Assets/Plugins/Android/gvr_android_common.aar
+/RTS_VR/Assets/Plugins/Android/gvr_android_common.aar.meta
+/RTS_VR/Assets/Plugins/x86_64/audioplugingvrunity.dll.meta
+/RTS_VR/Assets/Plugins/x86_64/audioplugingvrunity.bundle
+/RTS_VR/Assets/Plugins/x86_64/audioplugingvrunity.bundle.meta
+/RTS_VR/Assets/Plugins/x86_64/audioplugingvrunity.dll
+/RTS_VR/Assets/Plugins/Android/libs/armeabi-v7a/libgvrunity.so.meta
+/RTS_VR/Assets/Plugins/Android/libs/armeabi-v7a/libaudioplugingvrunity.so
+/RTS_VR/Assets/Plugins/Android/libs/armeabi-v7a/libaudioplugingvrunity.so.meta
+/RTS_VR/Assets/Plugins/Android/libs/armeabi-v7a/libgvrunity.so
+
+/Plugins/1stParty/xdevice-service/
+/Plugins/1stParty/csr_bluetooth
+/Plugins/1stParty/xdevice/android/eclipse/xdevice-api/libs/
+/Plugins/1stParty/xdevice/windows/TestConsole
+/Plugins/1stParty/xdevice-service/windows/VS2015/x64
+/Plugins/1stParty/xdevice-service/windows/VS2015/Debug
+Unity Integration/Unity Integration.CSharp.Editor.Plugins.csproj
+/Plugins/1stParty/xdevice/android/android-studio/xdevice-library/src/main/libs
+/Plugins/1stParty/xdevice/windows/VS2015.sln
+/Plugins/1stParty/bleapi/windows/TestConsole
+/Plugins/1stParty/bleapi/windows/vs2015/ipch
+/Plugins/1stParty/xdevice/android/eclipse/xdevice-api/_temp
+
+/////////////////////////
+// Ignored for UE4      /
+/////////////////////////
+/Unreal Engine 4 Integration/Plugins/XDevicePlugin/Intermediate
+/Unreal Engine 4 Integration/Plugins/XDevicePlugin/Binaries/Win64
+/Unreal Engine 4 Integration/Build
+/Unreal Engine 4 Integration/Content
+/Unreal Engine 4 Integration/Intermediate
+/Unreal Engine 4 Integration/Saved
+/Unreal Engine 4 Integration/Source
+/Unreal Engine 4 Integration/Proj_00.sln
+/Unreal Engine 4 Integration/Proj_00.uproject
+/Unreal Engine 4 Integration/Binaries
+/Unreal Engine 4 Integration/Config
+/Plugins/3rdParty/libusb-master
+/Plugins/3rdParty/hidapi-master
+/Plugins/1stParty/imeapi/windows/test-console
+/Plugins/1stParty/imeapi/windows/vs2015/ipch
+Unity Integration/Assets/Plugins/x86_64/imeapi.dll
+Unity Integration/Assets/Plugins/x86_64/imeapi.dll.meta
+/Unity Integration/Release
+/Unity Integration/storage
+/Plugins/_History
+/Plugins/1stParty/bleapi/windows/csr_bluetooth/build
+xcuserdata/
+Plugins/3rdParty/iOS
